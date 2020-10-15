@@ -2,7 +2,7 @@
 
 Repo contains notebooks with common reinforcement learning algorithms and solved gym environments.
 
-| <h2> Algorithms </h2> | <h2> Paper & Code <h2> |
+| <h3>Algorithms</h2> | <h3>Paper & Code<h2> |
 |---|---|
 | <ins> **Value Based Methods** </ins> ||
 | Q-Learning & SARSA | <ul><li>[notebook](https://github.com/nimishsantosh107/Reinforcement-Learning/blob/master/algorithms/0.QLearning-SARSA.ipynb) </li></ul>|
